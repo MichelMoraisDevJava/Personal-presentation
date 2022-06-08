@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Michel Morais</h1>
-<h3 align="center">Estudo Programação na Liguagem Java e algumas Tecnologias para Desenvolvedor Software.</h3>
+<h3 align="center">Estudo Programação na Liguagem Java e algumas Tecnologias para Desenvolvimento Software.</h3>
 
-- 🔭 No momento estou trabalhando [Netflix-clone](https://github.com/chelxy/netflix-clone)
+- 🔭 No momento estou trabalhando [DSMovie](https://github.com/chelxy/dsmovie)
 
 - 🌱 Atualmente estou aprendendo **Java, Programação Orientada a Objetos, JAvaScript, HTML5, CSS3.**
 
