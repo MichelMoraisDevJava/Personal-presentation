@@ -1,21 +1,21 @@
 <h1 align="center">Oi 👋, Eu sou Michel Morais</h1>
 <h3 align="center">Estudo Programação na Liguagem Java e algumas Tecnologias para Desenvolvimento Software.</h3>
 
-- 🔭 No momento estou trabalhando [DSMovie](https://github.com/chelxy/dsmovie)
+- 🔭 No momento estou trabalhando [DSMovie](https://github.com/michelmoraisdevjava/dsmovie)
 
 - 🌱 Atualmente estou aprendendo **Java, Programação Orientada a Objetos, JAvaScript, HTML5, CSS3.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MichelMoraisDevJava](https://github.com/MichelMoraisDevJava)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/michelmoraisdevjava](https://github.com/michelmoraisdevjava)
 
 - 💬 Pergunte-me sobre **Lógica de Programação, Java, POO, HTML5.**
 
-- 📫 Como chegar até mim **https://www.linkedin.com/in/Michel-Morais-Dev-Java/**
+- 📫 Como chegar até mim **https://www.linkedin.com/in/michel-morais-dev-java/**
 
-- 📄Conheça minhas experiências [https://www.linkedin.com/in/Michel-Morais-Dev-Java/](https://www.linkedin.com/in/Michel-Morais-Dev-Java/)
+- 📄Conheça minhas experiências [https://www.linkedin.com/in/michel-morais-dev-java/](https://www.linkedin.com/in/michel-morais-dev-java/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/Michel-Morais-Dev-Java/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Michel-Morais-Dev-Java/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/michel-morais-dev-java/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Michel-Morais-Dev-Java/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/michel_tecdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/michel_tecdev/" height="30" width="40" /></a>
 </p>
 
