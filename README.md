@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Java, Programação Orientada a Objetos, JAvaScript, HTML5, CSS3.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/chelxy](https://github.com/chelxy)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MichelMoraisDevJava](https://github.com/MichelMoraisDevJava)
 
 - 💬 Pergunte-me sobre **Lógica de Programação, Java, POO, HTML5.**
 
