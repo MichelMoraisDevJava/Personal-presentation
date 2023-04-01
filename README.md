@@ -9,9 +9,9 @@
 
 - 💬 Pergunte-me sobre **Lógica de Programação, Java, POO, HTML5.**
 
-- 📫 Como chegar até mim **https://www.linkedin.com/in/michel-morais-tecdev/**
+- 📫 Como chegar até mim **https://www.linkedin.com/in/Michel-Morais-Dev-Java/**
 
-- 📄Conheça minhas experiências [https://www.linkedin.com/in/michel-morais-tecdev/](https://www.linkedin.com/in/michel-morais-tecdev/)
+- 📄Conheça minhas experiências [https://www.linkedin.com/in/Michel-Morais-Dev-Java/](https://www.linkedin.com/in/Michel-Morais-Dev-Java/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
